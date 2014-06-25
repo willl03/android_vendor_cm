@@ -123,6 +123,12 @@ PRODUCT_COPY_FILES += \
 # T-Mobile theme engine
 include vendor/cm/config/themes_common.mk
 
+PRODUCT_COPY_FILES += \
+    vendor/cm/prebuilt/common/media/audio/notifications/S_Flowers.ogg:system/media/audio/notifications/S_Flowers.ogg \
+    vendor/cm/prebuilt/common/media/audio/notifications/S_On_time.ogg:system/media/audio/notifications/S_On_time.ogg \
+    vendor/cm/prebuilt/common/media/audio/notifications/S_Whistle.ogg:system/media/audio/notifications/S_Whistle.ogg \
+    vendor/cm/prebuilt/common/media/audio/ringtones/Basic_bell.ogg:system/media/audio/ringtones/Basic_bell.ogg
+
 # Required CM packages
 PRODUCT_PACKAGES += \
     Development \
