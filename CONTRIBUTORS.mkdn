@@ -1,7 +1,7 @@
 CyanogenMod
 ===========
 
-Maintainers (CyanogenMod 12.0):
+Maintainers (CyanogenMod 12.1):
 -----------------------------
 * __Acer A700:__ pawitp
 * __Amazon Kindle Fire 1st Edition:__ Hashcode, FuZZ__
@@ -13,22 +13,24 @@ Maintainers (CyanogenMod 12.0):
 * __Asus EeePad Transformer Pad TF701T:__ pershoot
 * __B&N NookColor (encore):__ eyeballer, fattire, keyodi, krylon360, sluo (NookieDevs)
 * __B&N Nook Tablet (acclaim):__  chrmhoffmann
-* __Google Android One:__ , varunchitre15
-* __Google Galaxy Nexus:__ , bekit, Bumble-Bee, burnsra, KalimochoAz, something15525
+* __Google Android One:__ varunchitre15
+* __Google Galaxy Nexus:__ bekit, Bumble-Bee, burnsra, KalimochoAz, something15525
 * __Google Nexus S:__ burnsra, KalimochoAz, klusark
 * __Google Nexus 4:__ rmcc
 * __Google Nexus 5:__ fluxi
+* __Google Nexus 6:__ dhacker29
 * __Google Nexus 7:__ burnsra, fattire, Thömy, nemith, JoeyRizzoli (GSM)
 * __Google Nexus 10:__ atinm, dalingrin, kornyone, gweedo767
-* __HTC Desire 601:__ uberlaggydarwin
+* __HTC Desire 601(zara/zaracl):__ uberlaggydarwin, PatrikKT
 * __HTC Desire 816:__ Grarak, v_superuser
+* __HTC Desire Eye:__ uberlaggydarwin
 * __HTC Droid DNA:__ crpalmer, invisiblek
 * __HTC Droid Incredible 4G LTE:__ intervigil, mdmower
 * __HTC Evo 4G LTE:__ kushdeck, toastcfh
-* __HTC One Mini:__ u-ra
-* __HTC One Mini 2:__ u-ra
 * __HTC One (GSM):__ codeworkx, h8rift
-* __HTC One (M8):__ deck, h8rift, invisblek, toastcfh
+* __HTC One M8:__ deck, h8rift, invisblek, toastcfh, u-ra, uberlaggydarwin
+* __HTC One M8 Dual SIM (m8dug):__ bgcngm
+* __HTC One M9 (hima):__ cyanogen, Rashed97, varunchitre15
 * __HTC One Max (T6):__ flyhalf205, sbrissen
 * __HTC One (Sprint):__ kushdeck, toastcfh
 * __HTC One (Verizon):__ flyhalf205, mdmower
@@ -36,17 +38,25 @@ Maintainers (CyanogenMod 12.0):
 * __HTC One X:__ gorbi16, mdeejay, tbalden, Thömy
 * __HTC One X+:__ Lloir, tombriden
 * __HTC One XL:__ h8rift, intervigil
+* __LG G2 (AT&T) (D800):__ arcee, Rashed97, Shelnutt2
+* __LG G2 (T-Mobile) (D801):__ arcee, Rashed97, Shelnutt2
+* __LG G2 (International) (D802):__ arcee, Rashed97, Shelnutt2
+* __LG G2 (Canada) (D803):__ arcee, Rashed97, Shelnutt2
+* __LG G2 (Sprint) (LS980):__ arcee, Rashed97, Shelnutt2
+* __LG G2 (Verizon) (VS980):__ arcee, Rashed97, Shelnutt2
 * __LG G3 (AT&T) (D850):__ AndroidUser00110001
 * __LG G3 (T-Mobile) (D851):__ savoca
-* __LG G3 (AT&T) (D852):__ AndroidUser00110001
+* __LG G3 (Canada) (D852):__ AndroidUser00110001
 * __LG G3 (International) (D855):__ AngelBob
 * __LG G3 (Verizon) (VS985):__ invisiblek
 * __LG Optimus LTE (P930) / LG Nitro HD {P935):__ arcee
 * __LG Optimus LTE (SK Telecom) (SU640):__ arcee
-* __Moto E 2014 (xt1021,xt1022,xt1023/condor):__ percy_g2, scritch007
+* __Moto E 2014 (xt1021,xt1022,xt1023/condor):__ percy_g2, scritch007, ashwin007
+* __Moto G 2014 (xt1063,xt1064,xt1068,xt1069/titan):__ LuK1337, luca020400
 * __Moto G 4G (xt1039,xt1040,xt1042,xt1045/peregrine):__ somcom3x, intervigil
 * __Moto X (xt1053,xt1055,xt1056,xt1058,xt1060/ghost):__ Hashcode, Skrilax_CZ
-* __Moto X 2014 (victara):__ crpalmer
+* __Moto X 2014 (victara):__ crpalmer, invisiblek
+* __Motorola Moto MAXX(quark) :__ Skrilax_CZ
 * __Motorola Atrix HD (MB886/qinara):__ epinter, Hashcode, Skrilax_CZ, nadlabak
 * __Motorola Droid 3 (solana):__ Hashcode, stargo
 * __Motorola Droid 4 (maserati):__ Hashcode, stargo
@@ -65,6 +75,7 @@ Maintainers (CyanogenMod 12.0):
 * __OnePlus One:__ cyanogen, intervigil, inwotep, arcee
 * __Oppo Find 5:__ intervigil, nebkat
 * __Oppo Find 7:__ intervigil, tdm, inwotep, mikeioannina
+* __Oppo N3:__ invisiblek, maniac103
 * __Samsung Captivate (SGH-I896 / SGH-I897):__ pawitp
 * __Samsung Epic 4G (SPH-D700):__ bbelos
 * __Samsung Exhilarate (SGH-I577):__ mikeyman77, carvsdriver
@@ -85,9 +96,10 @@ Maintainers (CyanogenMod 12.0):
 * __Samsung Galaxy S Blaze 4G (SGH-T769):__ UberPinguin
 * __Samsung Galaxy S (GT-I9000):__ pawitp
 * __Samsung Galaxy S (GT-I9000B):__ helvio88
+* __Samsung Galaxy S II (GT-I9100):__ Caio Schnepper
+* __Samsung Galaxy S II (intl) (GT-I9100G):__ codeworkx, Jiangyi, Ryuinferno
 * __Samsung Galaxy S II (T-Mobile) (SGH-T989):__ mikeyman77
 * __Samsung Galaxy S II (AT&T) (SGH-I727):__ topprospect
-* __Samsung Galaxy S II (intl) (GT-I9100G):__ codeworkx, Jiangyi, Ryuinferno
 * __Samsung Galaxy S III (AT&T) (SGH-I747):__ nardholio
 * __Samsung Galaxy S III (Sprint) (SPH-L710):__ noobnl
 * __Samsung Galaxy S III (Verizon) (SCH-I535):__ invisiblek
@@ -101,6 +113,8 @@ Maintainers (CyanogenMod 12.0):
 * __Samsung Galaxy S IV LTE-A (GT-I9506):__ solk2
 * __Samsung Galaxy S IV Mini 3G (GT-I9190):__ arco
 * __Samsung Galaxy S IV Mini LTE (GT-I9195):__ arco
+* __Samsung Galaxy S V (AU) (SCL23):__ scoty755
+* __Samsung Galaxy S V (Vodafone) (SM-G900I):__ Regi24
 * __Samsung Galaxy Tab 7" (GSM):__ cdesai, humberos
 * __Samsung Galaxy Tab 7" (CDMA):__ jt1134
 * __Samsung Galaxy Tab 2 7" (GT-P31xx):__ codeworkx, codyf86
@@ -111,7 +125,7 @@ Maintainers (CyanogenMod 12.0):
 * __Sony Xperia L (taoshan):__ varunchitre15, FreeXperia Team
 * __Sony Xperia M (nicki):__ RonG, FreeXperia Team
 * __Sony Xperia M2 (eagle):__ FreeXperia Team
-* __Sony Xperia SP (huashan):__ FreeXperia Team, uberlaggydarwin
+* __Sony Xperia SP (huashan):__ FreeXperia Team, uberlaggydarwin, Mrcl1450
 * __Sony Xperia T (mint):__ FreeXperia Team, tilal6991, uberlaggydarwin
 * __Sony Xperia T2 Ultra  (tianchi):__ FreeXperia Team
 * __Sony Xperia T3  (seagull):__ FreeXperia Team
@@ -123,7 +137,7 @@ Maintainers (CyanogenMod 12.0):
 * __Sony Xperia Tablet Z WiFi (pollux_windy):__ FreeXperia Team, snc
 * __Sony Xperia Tablet Z2 LTE (castor):__ FreeXperia Team
 * __Sony Xperia Tablet Z2 WiFi (castor_windy):__ FreeXperia Team
-* __Sony Xperia  Z3 Tablet Compact LTE (scorpion):__ FreeXperia Team
+* __Sony Xperia Z3 Tablet Compact LTE (scorpion):__ FreeXperia Team
 * __Sony Xperia Z Ultra (togari):__ FreeXperia Team
 * __Sony Xperia Z1 (honami):__ FreeXperia Team
 * __Sony Xperia Z1 compact (amami):__ FreeXperia Team, intervigil, championswimmer
@@ -132,6 +146,7 @@ Maintainers (CyanogenMod 12.0):
 * __Sony Xperia Z3 Compact (z3c):__ FreeXperia Team
 * __Sony Z Ultra GPE (togari_gpe):__ FreeXperia Team
 * __Xiaomi Mi2(s) (aries):__ Michael Zimmermann
+* __Xiaomi Mi3/4 (cancro):__ JoeyRizzoli
 
 FreeXperia Team:
 -------------------
@@ -202,5 +217,5 @@ Graphics and Assets:
 
 Former Contributors:
 --------------------
-* __Devices:__ Entropy512, xplodwild, dhacker29, nardholio
+* __Devices:__ Entropy512, xplodwild
 * __Features:__ mad-murdock, wysie, Ander Webbs, ChainsDD, xplodwild
