@@ -155,7 +155,6 @@ PRODUCT_PACKAGES += \
     CMFileManager \
     Eleven \
     LockClock \
-    CMAccount \
     CMHome \
     CMSettingsProvider
 
